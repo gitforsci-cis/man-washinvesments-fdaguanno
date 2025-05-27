@@ -1,7 +1,7 @@
 ---
 title: WASH investments
 author:
-  - name: First Second Last
+  - name: Fabio D'Aguanno
     orcid: 0000-0000-0000-0000
     corresponding: true
     email: me@me.com
@@ -27,7 +27,7 @@ bibliography: references.bib
 # install required R packages
 # install.packages("devtools")
 # devtools::install_github("openwashdata/washinvestments")
-# install.packages(c("ggplot2", "countrycode", "dplyr", "ggthemes))
+# install.packages(c("ggplot2", "countrycode", "dplyr", "ggthemes"))
 ```
 
 # Data import
